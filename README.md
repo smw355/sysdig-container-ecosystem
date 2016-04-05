@@ -245,7 +245,7 @@ These technologies add further abstracted management and control layers to distr
   * [Project Orca](https://youtu.be/BKVKc_xFnw8?list=PLenh213llmcbpJ78mZdh5pnJ_feVT9bezt=5237): opinionated management GUI built on top of full stack of Docker technologies; still alpha
 
 * **Other open source**
-  * [Rancher](https://github.com/rancher/rancher): still beta
+  * [Rancher](https://github.com/rancher/rancher): uses Kubernetes, Swarm, Cattle
   * [ContainerShip](https://github.com/containership/containership)
   * [Panamax](http://panamax.io/)
   * [Shipyard](https://github.com/shipyard/shipyard)
